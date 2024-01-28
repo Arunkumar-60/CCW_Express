@@ -16,7 +16,7 @@ app.set('view engine', 'ejs')
 
 // Routes
 app.get('', (req, res) => {
-    res.render('../index', { title: 'CCW - Home Page' })
+    res.render('index', { title: 'CCW - Home Page' })
 })
 
 app.get('/aboutus', (req, res) => {
