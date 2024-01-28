@@ -2,7 +2,9 @@
 /* carousel font sizes */
 
 /* toggle switch */
-
+*{
+  font-family: 'Poppins', sans-serif;
+}
 
 .toggle__switch{
     display: flex;
