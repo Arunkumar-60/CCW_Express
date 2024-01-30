@@ -15,10 +15,7 @@
   /* heading */
   
   
-  .carousel{
-    color: #FFF;
-    margin-bottom: 1rem;
-  }
+  
   
   @media (min-width:830px){
     .carousel{
@@ -29,9 +26,6 @@
     
   
     }
-  }
-  .carousel .carousel-inner .carousel_caption h5,p {
-    color: #fff;
   }
   
   #arunchtr {
