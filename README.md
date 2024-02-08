@@ -4,7 +4,7 @@ transforming the code of CCW using express pjs layouts
 # port
 kill port 3000 to terminate processes on port 3000 if any with command
 <!-- $npx kill-port 3000 -->
-
+npx kill-port 3000
 
 
 # packages
