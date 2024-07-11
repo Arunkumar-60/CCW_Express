@@ -1,5 +1,5 @@
 # Express
-transforming the code of CCW using express pjs layouts
+transforming the code of CCW using express ejs layouts
 
 # port
 kill port 3000 to terminate processes on port 3000 if any with command
